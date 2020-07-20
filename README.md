@@ -4,7 +4,7 @@
 
 ## Deployed - check this out !
 
-[Clipboard Landing Page](https://angry-bhabha-ffbcf3.netlify.app) on Netlify.
+No frameworks were used. Project completed mobile first with HTML, SCSS while following BEM naming convention. [Clipboard Landing Page](https://angry-bhabha-ffbcf3.netlify.app) on Netlify.
 
 ## Welcome! 👋
 
